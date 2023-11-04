@@ -1,12 +1,13 @@
 # Todoist Kanban Card
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
-![hacs_badge](https://img.shields.io/github/v/release/grinstantin/todoist-card)
-![hacs_badge](https://img.shields.io/github/license/grinstantin/todoist-card)
+![hacs_badge](https://img.shields.io/github/v/release/corte/todoist-kanban-card)
+![hacs_badge](https://img.shields.io/github/license/corte/todoist-kanban-card)
 
-Todoist card for [Home Assistant](https://www.home-assistant.io) Lovelace UI. This card displays items from selected Todoist project.
+Todoist kanban card for [Home Assistant](https://www.home-assistant.io) Lovelace UI. This card displays items from selected Todoist project.
 
-![Preview of todoist-card](https://user-images.githubusercontent.com/34913257/108243361-a8ea8500-7156-11eb-8313-a149a7cf38b8.png)
+![todoist-kanban-card-dark](https://github.com/corte/todoist-kanban-card/assets/4606160/2a80caeb-7238-448e-8bcf-99d17a1c6ade)
+![todoist-kanban-card-light](https://github.com/corte/todoist-kanban-card/assets/4606160/9fb8fabe-93c1-487d-abc8-6f8ecbf194bd)
 
 ## Installing
 
