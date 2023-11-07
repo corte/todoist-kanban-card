@@ -1,6 +1,6 @@
 # Todoist Kanban Card
 
-<!-- [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration) -->
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 ![hacs_badge](https://img.shields.io/github/v/release/corte/todoist-kanban-card)
 ![hacs_badge](https://img.shields.io/github/license/corte/todoist-kanban-card)
 
@@ -12,11 +12,11 @@ Light theme |  Dark theme
 
 ## Installing
 
-<!-- ### HACS
+### HACS
 
 This card is available in [HACS](https://hacs.xyz) (Home Assistant Community Store).
 
-Just search for `Todoist Card` in HACS `Frontend` tab. -->
+Just search for `Todoist Kanban Card` in HACS `Frontend` tab.
 
 ### Manual
 
